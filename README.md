@@ -7,7 +7,7 @@
    Please install [NodeJS >= 10.15.0](https://nodejs.org/en/download/). Which automatically installs NPM. If you already have them, you're good to go. 
 
 Once you have the [Prerequisites](#prerequisites) covered:
-1. Clone this repository from GitLab onto your local computer.
+1. Clone this repository from GitHub onto your local computer.
 
     ```sh
     $ git clone https://github.com/Ary-an/amazon-payment-backend
@@ -29,7 +29,7 @@ Once you have the [Prerequisites](#prerequisites) covered:
    Now you can run -
 
    ```sh
-   $ npm run serve
+   $ nodemon index.js
    ```
    
    to start the local development server.
